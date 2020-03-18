@@ -1,1 +1,0 @@
-# nginx-basic-auth
